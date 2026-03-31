@@ -17,6 +17,3 @@ Este projeto utiliza mock da API devido à limitação de créditos.
 ## ▶️ Como executar
 1. Defina a variável de ambiente OPENAI_API_KEY
 2. Execute o notebook
-
-3. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/SEU_USUARIO/SEU_REPO/blob/main/seu_arquivo.ipynb)
